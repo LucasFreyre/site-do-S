@@ -1,0 +1,87 @@
+* {margin: 0}
+table {height:800px;
+width: 100%;}
+td{
+    width: 10%;
+    height: 10vh;
+}
+body {
+    font-size: 2em;
+    
+}
+.baixo {
+   background-color: blue;
+   width: 80%;
+
+}
+.pequeno {
+    width: 10%;
+    height: 50%;
+}
+.cima {
+    background-color: blueviolet;
+    width: 80%;
+}
+.cadu {
+    background-color: blueviolet;
+    border: none;
+}
+.hard {
+    font-family: 'Inter';
+    height: 150px;
+    text-align: center;
+}
+.colorido{
+    text-align: center;
+}
+#linha1{
+    background-color: #D9D9D9;
+}
+.certificado{
+    text-align: center;
+}
+.certificadoImg{
+    transform: translateX(100%);
+}
+.descrição{
+    font-size: 0.7em;
+}
+.logo{
+    height: 100px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.lupa{
+    transform: translateY(5px);
+    height: 20px;
+    margin-right: 10px;
+}
+.search{
+    border-radius: 20px;
+}
+.quer{
+    font-family: 'Inter';
+    font-size: 0.8em;
+}
+label{
+    font-family: "Inter";
+}
+input{
+    border-radius: 5px;
+    height: 20px;
+    width: 200px;
+}
+.logoC{
+    width: 100%;
+}
+.TC{
+    width: 100%;
+}
+.mouseContato{
+    float: right;
+}
+.inputBtn{
+    text-align: center;
+}
