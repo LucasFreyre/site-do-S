@@ -53,3 +53,11 @@ a{
     text-decoration: none;
     color: black;
 }
+.lupa{
+    transform: translateY(5px);
+    height: 20px;
+    margin-right: 10px;
+}
+.search{
+    border-radius: 20px;
+}
